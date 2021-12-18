@@ -1,0 +1,54 @@
+/* form {
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+    padding: 50px;
+    background: #f8f8f8;
+    row-gap: 20px;
+    flex-direction: column;
+    box-shadow: 0 0 5px #cbcbcb;
+}
+table{
+    background: #fff;
+}
+body {
+    background: #e9e9e9 !important;
+}
+input.choose{
+    background: #fff;
+    color: #000;
+    font-weight: bold;
+    padding: 50px !important;
+    position: relative;
+    
+}
+input.choose::before {
+    position: absolute;
+    content: 'Choose a File';
+    background: #939393;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+input.choose:hover::before{
+    background: #5c5b5b;
+} 
+input.submit{
+    width: 50%;
+    margin: auto;
+}
+thead {
+    background: #000;
+    color: #fff;
+}
+.submit-wrapper{
+    
+} */

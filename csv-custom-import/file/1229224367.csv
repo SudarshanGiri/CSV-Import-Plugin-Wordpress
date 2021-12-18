@@ -1,0 +1,11 @@
+Name,Shape,Weight,Treatment,Price Per Cart,Price,Certificate,Videos,Single/Pair,Origin,Dimensions
+Ruby1,Oval,5.02 Carats,Heated,$10 ,$80 ,Attached,,Single,Burma,11.4*9.7
+Ruby2,Rect,4.02 Carats,Cooled,$20 ,$20 ,Not attached,,Pair,Krtx,20*1.4
+Ruby3,Circle,5.02 Carats,Heated,$90 ,$200 ,Attached,,Single,Burma,11.4*9.8
+Ruby4,Oval,4.02 Carats,Cooled,$120 ,$220 ,Not attached,,Pair,Krtx,20*1.5
+Ruby5,Rect,5.02 Carats,Heated,$160 ,$280 ,Attached,,Single,Burma,11.4*9.9
+Ruby6,Circle,4.02 Carats,Cooled,$200 ,$340 ,Not attached,,Pair,Krtx,20*1.6
+Ruby7,Oval,5.02 Carats,Heated,$240 ,$400 ,Attached,,Single,Burma,11.4*9.10
+Ruby8,Rect,4.02 Carats,Cooled,$280 ,$460 ,Not attached,,Pair,Krtx,20*1.7
+Ruby9,Circle,5.02 Carats,Heated,$320 ,$520 ,Attached,,Single,Burma,11.4*9.11
+Ruby10,Oval,4.02 Carats,Cooled,$360 ,$580 ,Not attached,,Pair,Krtx,20*1.8
